@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-ClickUp Space: [Sharrded](https://app.clickup.com/9012466016/v/s/90121963846)
+ClickUp Space: [Sharded](https://app.clickup.com/9012466016/v/s/90121963846)
 
 <!--
 
